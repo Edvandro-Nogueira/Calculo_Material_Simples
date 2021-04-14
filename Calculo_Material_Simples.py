@@ -1,6 +1,6 @@
 #Autor: Edvandro Nogueira de Souza
-#Este algoritmo simples faz o cálculo de barras necessárias dado um n quantidade de peças.
-#Não leva em consideração um aproveitamento sofisticado, ele apenas ordena os elementos de forma crescente e tenta alocar na barra com a medida dada.
+#Este algoritmo simples faz o cálculo de barras necessárias dado n quantidade de peças.
+#Não leva em consideração um aproveitamento sofisticado, ele apenas ordena os elementos de forma decrescente e tenta alocar na barra com a medida dada.
 
 #Imports
 from copy import deepcopy
